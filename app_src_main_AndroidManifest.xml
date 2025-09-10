@@ -1,0 +1,3 @@
+<manifest xmlns:android='http://schemas.android.com/apk/res/android'
+ package='com.animemaster'>
+<application android:label='AnimeMaster'/></application></manifest>
